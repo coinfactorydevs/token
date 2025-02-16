@@ -10,6 +10,7 @@ CoinFactory is a powerful tool for creating cryptocurrency tokens without coding
 ✅ Polygon (MATIC)
 ✅ Optimism (OP)
 ✅ Blast
+✅ Solana
 
 NO CODING 
 
